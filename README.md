@@ -25,7 +25,7 @@ The **LITA Sales Report Dashboard** provides a 360° view of the company’s sal
 - Understand sales seasonality and monthly trends  
 - Develop a professional, insight-driven Power BI dashboard for stakeholders  
 - Generate actionable insights to improve business performance
--Provide actionable recommendations to improve business performance, revenue and operational efficiency.
+- Provide actionable recommendations to improve business performance, revenue and operational efficiency.
 
 ---
 
